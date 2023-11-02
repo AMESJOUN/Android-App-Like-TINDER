@@ -6,4 +6,6 @@ lib : SwipeCards  : https://github.com/Diolor/Swipecards
 
 Database : Firebase => Realtime database
 
-Android Studio
+Android Studio 
+
+Programming Language : Java 
